@@ -1,8 +1,15 @@
 # Saeed Fazelipanah
 
-Full-stack developer focused on TypeScript, Python, product-oriented MVPs, backend architecture, and operational web applications.
+Full-stack software developer focused on TypeScript, Python, production-ready MVPs, backend architecture, and operational web applications.
 
 I build practical systems with clear domain workflows, typed APIs, database migrations, deployment documentation, and maintainable frontend experiences.
+
+## Featured Work
+
+| Project | What it shows | Stack |
+| --- | --- | --- |
+| [IranCarYar Portfolio](https://github.com/teflakeii/iran-car-yar-portfolio) | Roadside assistance case study with customer, responder, admin, realtime, mobile, and AI documentation workflows. | FastAPI, React, TypeScript, PostgreSQL, Docker |
+| [Cafe POS](https://github.com/teflakeii/cafe-pos) | Full-stack cafe POS and back-office system with RBAC, shifts, orders, payments, reporting, and audit workflows. | NestJS, Next.js, Prisma, TypeScript |
 
 ## Core Stack
 
@@ -12,7 +19,7 @@ I build practical systems with clear domain workflows, typed APIs, database migr
 - Platform: Docker, GitHub Actions, Android/Capacitor
 - Engineering: API design, auth/RBAC, realtime workflows, testing, CI, technical documentation
 
-## Featured Projects
+## Project Notes
 
 ### IranCarYar
 
