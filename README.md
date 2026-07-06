@@ -23,7 +23,9 @@ Roadside assistance MVP with customer, responder, and admin workflows.
 - Docker Compose staging baseline and Android/Capacitor packaging.
 - AI development kit and project context documentation for maintainable AI-assisted development.
 
-Repository: [teflakeii/iran-car-yar](https://github.com/teflakeii/iran-car-yar)
+Portfolio case study: [teflakeii/iran-car-yar-portfolio](https://github.com/teflakeii/iran-car-yar-portfolio)
+
+Source repository: private
 
 ### Cafe POS
 
